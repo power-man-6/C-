@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="分治算法/分治算法.vcxproj" Id="a70453c3-4b50-427a-90ea-7bce20d977f3" />
+</Solution>

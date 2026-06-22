@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="SepStack/SepStack.vcxproj" Id="86119d1d-336d-4771-94a1-b9db207a2bd1" />
+</Solution>

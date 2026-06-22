@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="求中位数（log2 n）/求中位数（log2 n）.vcxproj" Id="87b65c3d-bbb8-465c-bb55-d38924757b7d" />
+</Solution>

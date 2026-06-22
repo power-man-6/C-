@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="AVL平衡树/AVL平衡树.vcxproj" Id="084fdfba-3396-430b-b4da-bbcc1a3b6333" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="BST树/BST树.vcxproj" Id="7e0501f9-8375-4468-b4f2-dec105f6ec1f" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="一致性哈希算法/一致性哈希算法.vcxproj" Id="fd3f98a1-f3d6-4adc-a872-767957fc1d0f" />
+</Solution>

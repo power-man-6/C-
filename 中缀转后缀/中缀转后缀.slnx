@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="中缀转后缀/中缀转后缀.vcxproj" Id="b3cac432-06f0-46f2-a811-f57277a083e4" />
+</Solution>

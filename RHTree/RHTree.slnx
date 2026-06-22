@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="RHTree/RHTree.vcxproj" Id="4699e9a7-acd3-41bc-935b-8219fa76adda" />
+</Solution>

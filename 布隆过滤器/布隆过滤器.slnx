@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="布隆过滤器/布隆过滤器.vcxproj" Id="55637bab-6dda-4eb3-b175-f44b32d27f0a" />
+</Solution>

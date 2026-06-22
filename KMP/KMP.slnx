@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="KMP/KMP.vcxproj" Id="690f669e-3112-46f3-9949-14895e3269a0" />
+</Solution>

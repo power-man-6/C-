@@ -1,0 +1,75 @@
+# ==================== 1. 编译输出目录（你截图里的x64会被忽略） ====================
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# ==================== 2. VS隐藏缓存文件夹 .vs 必须忽略 ====================
+.vs/
+Generated\ Files/
+
+# ==================== 3. 用户个人配置文件（每个人IDE配置不一样，不用提交） ====================
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# ==================== 4. C/C++编译产生的中间文件、可执行文件 ====================
+*_i.c
+*_p.c
+*_h.h
+*.ilk
+*.meta
+*.obj
+*.iobj
+*.pch
+*.pdb
+*.ipdb
+*.pgc
+*.pgd
+*.rsp
+*.sbr
+*.tlb
+*.tli
+*.tlh
+*.tmp
+*.tmp_proj
+*.log
+*.tlog
+*.vspscc
+*.vssscc
+.builds
+*.pidb
+*.scc
+
+# ==================== 5. VS数据库、缓存文件 ====================
+ipch/
+*.aps
+*.ncb
+*.opensdf
+*.sdf
+*.cachefile
+*.VC.db
+*.VC.VC.opendb
+
+# ==================== 6. 系统、压缩包、临时文件 ====================
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+*.7z
+*.bak
+*.swp
+*~

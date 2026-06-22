@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="大数据查重/大数据查重.vcxproj" Id="8fe9858e-5ca9-4cbd-a2aa-4164633fdb8f" />
+</Solution>

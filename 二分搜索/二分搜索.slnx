@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="二分搜索/二分搜索.vcxproj" Id="7e3631c4-58c3-4417-899a-ce1b9cba5127" />
+</Solution>

@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="lcs最长公共序列/lcs最长公共序列.vcxproj" />
+</Solution>
