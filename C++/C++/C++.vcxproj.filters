@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bind.cpp">
+    <ClCompile Include="thread实例.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
